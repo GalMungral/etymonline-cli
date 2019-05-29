@@ -1,0 +1,22 @@
+{
+  "name": "etymonline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GalMungral/etymonline-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GalMungral/etymonline-cli/issues"
+  },
+  "homepage": "https://github.com/GalMungral/etymonline-cli#readme",
+  "dependencies": {
+    "jsdom": "^11.11.0"
+  }
+}
