@@ -1,3 +1,6 @@
+---
+path: /github/etymonline-cli
+---
 ### Example:
 ```bash
 node index.js computation
